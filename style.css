@@ -19,3 +19,12 @@ body {
     font-size: 20px;
     line-height: 30px;
 }
+
+.img-custom{
+    height:800px;
+}
+@media screen and (max-width:888px) {
+    .img-custom{
+        height:500px;
+    }   
+}
