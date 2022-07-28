@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;700&family=Poppins:wght@400;600;700;800&display=swap');
+
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand-style {
+    font-weight: 600;
+    color: #4A4A4A;
+    line-height: 60px;
+    margin-left: 50px;
+}
+.btn-custom{
+    margin-right: 150px;
+    width: 150px;
+    height: 56px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+}
+.img-custom{
+}
