@@ -86,18 +86,30 @@ body {
 }
 /* footer end */
 
-@media screen and (max-width:688px) {
+@media screen and (max-width:680px) {
     .img-custom{
         margin-top:100px;
-        height:250px;
+        height:350px;
     }   
     .large-btn-custom{
         margin-left: 130px;
         margin-bottom: 50px;
         margin-top: 30px;
-        font-size: 12px;
+        font-size: 14px;
     }
     .btn-custom{
         margin-left: 30px;
+    }    
+}
+@media screen and (min-width:689px) {
+    .img-custom{
+        margin-top:10px;
+        height:850px;
+    }   
+    .large-btn-custom{
+        margin-left: 830px;
+        margin-bottom: 50px;
+        margin-top: 30px;
+        font-size: 20px;
     }
 }
